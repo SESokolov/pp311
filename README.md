@@ -1,2 +1,2 @@
 # pp311
-CRUD (Spring boot)
+CRUD-приложение из ПП 2.3.1 на Spring Boot
